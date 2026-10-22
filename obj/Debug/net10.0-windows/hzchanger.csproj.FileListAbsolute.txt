@@ -1,0 +1,16 @@
+C:\Users\Enes\source\repos\hzchanger\hzchanger\bin\Debug\net10.0-windows\hzchanger.exe
+C:\Users\Enes\source\repos\hzchanger\hzchanger\bin\Debug\net10.0-windows\hzchanger.deps.json
+C:\Users\Enes\source\repos\hzchanger\hzchanger\bin\Debug\net10.0-windows\hzchanger.runtimeconfig.json
+C:\Users\Enes\source\repos\hzchanger\hzchanger\bin\Debug\net10.0-windows\hzchanger.dll
+C:\Users\Enes\source\repos\hzchanger\hzchanger\bin\Debug\net10.0-windows\hzchanger.pdb
+C:\Users\Enes\source\repos\hzchanger\hzchanger\obj\Debug\net10.0-windows\hzchanger.Form1.resources
+C:\Users\Enes\source\repos\hzchanger\hzchanger\obj\Debug\net10.0-windows\hzchanger.csproj.GenerateResource.cache
+C:\Users\Enes\source\repos\hzchanger\hzchanger\obj\Debug\net10.0-windows\hzchanger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes\source\repos\hzchanger\hzchanger\obj\Debug\net10.0-windows\hzchanger.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\hzchanger\hzchanger\obj\Debug\net10.0-windows\hzchanger.AssemblyInfo.cs
+C:\Users\Enes\source\repos\hzchanger\hzchanger\obj\Debug\net10.0-windows\hzchanger.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\hzchanger\hzchanger\obj\Debug\net10.0-windows\hzchanger.dll
+C:\Users\Enes\source\repos\hzchanger\hzchanger\obj\Debug\net10.0-windows\refint\hzchanger.dll
+C:\Users\Enes\source\repos\hzchanger\hzchanger\obj\Debug\net10.0-windows\hzchanger.pdb
+C:\Users\Enes\source\repos\hzchanger\hzchanger\obj\Debug\net10.0-windows\hzchanger.genruntimeconfig.cache
+C:\Users\Enes\source\repos\hzchanger\hzchanger\obj\Debug\net10.0-windows\ref\hzchanger.dll
